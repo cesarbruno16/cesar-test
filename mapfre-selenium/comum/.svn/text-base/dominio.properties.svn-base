@@ -1,0 +1,4 @@
+##################      CONFIGURACOES     ###############################
+##config.base.url=http://hmlj3:8582/novo-portal-web-1502/
+config.base.url=http://localhost:8080/novo-portal-web
+config.user=ivson.santos
